@@ -1,0 +1,5 @@
+{
+  "name": "Clow Card Commander",
+  "description": "Control Clow Cards with hand gestures using your webcam.",
+  "requestFramePermissions": ["camera"]
+}
